@@ -1,0 +1,41 @@
+Team,Country,NameF,NameL,Weight,Height,DOB,Hometown,Prov,Pos,Age,HeightFt,HtIn,BMI,NameM
+Men,Canada,Eric,O’Dell,201,6'1,6/21/1990,Ottawa,Ont.,Forward,32,6.08,73.00,27,E
+Men,Canada,Maxim,Lapierre,216,6'0,3/29/1985,Brossard,Que.,Forward,37,6.00,72.00,29,M
+Men,Canada,Linden,Vey,190,6'0,7/17/1991,Wakaw,Sask.,Forward,31,6.00,72.00,26,L
+Men,Canada,Christian,Thomas,174,5'9,5/26/1992,Toronto,Ont.,Forward,30,5.75,69.00,26,C
+Men,Canada,Karl,Stollery,181,5'11,11/21/1987,Camrose,Alta.,Defence,34,5.92,71.00,25,K
+Men,Canada,Chris,Lee,187,6'0,10/3/1980,MacTier,Ont.,Defence,41,6.00,72.00,25,C
+Men,Canada,Chay,Genoway,170,5'9,12/20/1986,Morden,Man.,Defence,35,5.75,69.00,25,C
+Men,Canada,Marc-Andre,Gragnani,205,6'3,3/11/1987,L’Île-Bizard,Que.,Defence,35,6.25,75.00,26,M
+Men,Canada,Stefan,Elliott,190,6'1,1/30/1991,Vancouver,B.C.,Defence,31,6.08,73.00,25,S
+Men,Canada,Cody,Goloubef,200,6'1,11/30/1989,Oakville,Ont.,Defence,32,6.08,73.00,26,C
+Men,Canada,Mat,Robinson,185,5'10,6/20/1986,Calgary,Alta.,Defence,36,5.83,70.00,27,M
+Men,Canada,Maxim,Noreau,198,6'0,5/24/1987,Montreal,Que.,Defence,35,6.00,72.00,27,M
+Men,Canada,Ben,Scrivens,181,6'2,9/11/1986,Spruce Grove,Alta.,Goalie,35,6.17,74.00,23,B
+Men,Canada,Kevin,Poulin,205,6'2,4/12/1990,Montreal,Que.,Goalie,32,6.17,74.00,26,K
+Men,Canada,Justin,Peters,210,6'1,8/30/1986,Blyth,Ont.,Goalie,35,6.08,73.00,28,J
+Men,USA,Mark,Arcobello,170,5'8,8/12/1988,Milford,Conn.,Forward,34,5.67,68.00,26,M
+Men,USA,Chad,Billins,185,5'10,5/26/1989,Marysville,Mich.,Defence,33,5.83,70.00,27,C
+Men,USA,Jonathan,Blum,195,6'1,1/30/1989,Ladera Ranch,Calif.,Defence,33,6.08,73.00,26,J
+Men,USA,Will,Borgen,195,6'2,12/19/1996,Moorhead,Minn.,Defence,25,6.17,74.00,25,W
+Men,USA,Chris,Bourque,180,5'8,1/29/1986,North Reading,Mass.,Forward,36,5.67,68.00,27,C
+Men,USA,Bobby,Butler,189,6'0,4/26/1987,Marlborough,Mass.,Forward,35,6.00,72.00,26,B
+Men,USA,Ryan,Donato,196,6'1,4/9/1996,Scituate,Mass.,Forward,26,6.08,73.00,26,R
+Men,USA,Matt,Gilroy,200,6'1,7/20/1984,Bellmore,N.Y.,Defence,38,6.08,73.00,26,M
+Men,USA,Brian,Gionta,175,5'7,1/18/1979,Rochester,N.Y.,Forward,43,5.58,67.00,27,B
+Men,USA,Jordan,Greenway,235,6'5,2/16/1997,Canton,N.Y.,Forward,25,6.42,77.00,28,J
+Men,USA,Ryan,Gunderson,170,5'9,8/16/1985,Bensalem,Pa.,Defence,37,5.75,69.00,25,R
+Men,USA,Chad,Kolarik,185,5'11,1/26/1986,Abington,Pa.,Forward,36,5.92,71.00,26,C
+Men,USA,David,Leggio,185,6'0,7/31/1984,Buffalo,N.Y.,Goalie,38,6.00,72.00,25,D
+Men,USA,Broc,Little,170,5'9,3/24/1988,Rindge,N.H.,Forward,34,5.75,69.00,25,B
+Men,USA,Brandon,Maxwell,196,6'1,3/22/1991,Winter Park,Fla.,Goalie,31,6.08,73.00,26,B
+Men,USA,John,McCarthy,195,6'1,8/9/1986,Boston,Mass.,Forward,36,6.08,73.00,26,J
+Men,USA,Brian,O'Neill,174,5'9,6/1/1988,Yardley,Pa.,Forward,34,5.75,69.00,26,B
+Men,USA,Garrett,Roe,178,5'9,2/22/1988,Vienna,Va.,Forward,34,5.75,69.00,26,G
+Men,USA,Bobby,Sanguinetti,190,6'2,2/29/1988,Wilmington,N.C.,Defence,34,6.17,74.00,24,B
+Men,USA,Jim,Slater,200,6'0,12/9/1982,Lapeer,Mich.,Forward,39,6.00,72.00,27,J
+Men,USA,Ryan,Stoa,210,6'3,4/13/1987,Bloomington,Minn.,Forward,35,6.25,75.00,26,R
+Men,USA,Troy,Terry,179,6'0,9/10/1997,Highlands Ranch,Colo.,Forward,24,6.00,72.00,24,T
+Men,USA,Noah,Welch,215,6'4,8/26/1982,Brighton,Mass.,Defence,39,6.33,76.00,26,N
+Men,USA,James,Wisniewski,205,6'0,2/21/1984,Canton,Mich.,Defence,38,6.00,72.00,28,J
+Men,USA,Ryan,Zapolski,203,6'0,11/11/1986,Erie,Pa.,Goalie,35,6.00,72.00,28,R
